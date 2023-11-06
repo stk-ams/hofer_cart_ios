@@ -1,5 +1,8 @@
 # HoferCart
 
+## Paper Prototype & top success criteria/features
+https://github.com/stk-ams/hofer_cart_ios/wiki/Concept
+
 ## Introduction
 HoferCart is an iOS application designed to enhance your grocery shopping experience at Hofer. The app allows you to save your grocery list, making shopping more organized and efficient.
 
